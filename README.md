@@ -1,5 +1,16 @@
 # hyperledger-fabric-lab-network
-HyperLeger Fabric的实验网络帮助超级账本Fabric的开发人员实验自己的区块链应用
+
+对于大多数区块链开发人员，自己搭建区块链网络是非常费事的事情，需要大量的基础知识包含：
+
+* 网路基础知识
+* PKI（Public Key Infrastructure)公钥基础设施知识
+* 加密解密知识
+* Fabric MSP， BCCSP等核心概念
+* Docker容器等
+
+甚至需要去读源代码。
+
+为了方便大家快速HyperLeger Fabric区块链应用开发 HyperLeger Fabric的实验网络帮助超级账本Fabric的开发人员实验自己的区块链应用
 
 目前有三个节点：分别位于
 
