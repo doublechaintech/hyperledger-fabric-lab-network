@@ -31,6 +31,6 @@ http://hongkong-node-01.doublechaintech.com:7080/#/login
 
 用户名密码: exploreradmin/exploreradminpw
 
-实验网客户端访问，扫描下面二维码联系
+实验网客户端访问区块链网络，需要自己的私钥，请扫描下面二维码联系
 
 ![ScreenShot](/lab-network-contact-qr.jpg)
