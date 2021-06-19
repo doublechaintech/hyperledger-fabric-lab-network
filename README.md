@@ -22,4 +22,4 @@ http://hongkong-node-01.doublechaintech.com:7080/#/login
 
 实验网客户端访问，扫描下面二维码联系
 
-![ScreenShot](/hyperledger-fabric-contact.jpg)
+![ScreenShot](/lab-network-contact-qr.jpg)
